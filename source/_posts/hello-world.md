@@ -1,39 +1,14 @@
 ---
-title: Hello World
+title: Wassup
 ---
 
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Welcome to my site. I will share nonsense in this blog and weep about my senior year at high school
 
-## Quick Start
+## About me
 
-### Create a new post
+### Shanru Wang, 17, Male
 
-```bash
-$ hexo new "My New Post"
-```
+### Student, High School Affil. to Fudan Univ., Shanghai, China
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+### Fluent Mandarin, English Speaker; speaks Shanghainese and Cantonese
 
-### Run server
-
-```bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-```bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-```bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
